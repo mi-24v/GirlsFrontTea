@@ -20,9 +20,9 @@ Maybe N th decoy and I'm not specialist of tea.  ~~However, the tactical special
 
 | Tactical Doll    | Tea | Remarks | 
 |---------|---|----| 
-| coltSAA| Orange?| **99%** のコーラでできてそう.|
-| Welrod | Lemonade | 実は超砂糖入れてそう |
-| ||
+| coltSAA| Orange?| **99%** のコーラでできてそう.私はどっち派でもないです |
+| Welrod | Lemonade | 実は超砂糖入れてそう 「これも正義の鉄槌です」 |
+| PPK | Cinnamon | ワインを混ぜてTea infused wine(Red)にしてそう  Ian Flemingの名作に出る方は申し訳無いけど知らないんです...珈琲派らしいですので参考から除外しましたが |
 
 ## SMG
 
