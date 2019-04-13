@@ -18,16 +18,16 @@ Maybe N th decoy and I'm not specialist of tea.  ~~However, the tactical special
 
 ## HG
 
-| Tactical Doll    | Tea | Remarks | 
-|---------|---|----| 
+| Tactical Doll | Tea | Remarks |
+|---------------|-----|---------|
 | coltSAA| Orange?| **99%** のコーラでできてそう.私はどっち派でもないです |
 | Welrod | Lemonade | 実は超砂糖入れてそう 「これも正義の鉄槌です」 |
 | PPK | Cinnamon | ワインを混ぜてTea infused wine(Red)にしてそう  Ian Flemingの名作に出る方は申し訳無いけど知らないんです...珈琲派らしいですので参考から除外しましたが 「どう?楽しい?(指揮官の顔にワインをかけながら)」」 |
 
 ## SMG
 
-| Tactical Doll    | Tea | Remarks | 
-|---------|---|----| 
+| Tactical Doll | Tea | Remarks |
+|---------------|-----|---------|
 | 100式 | [光らいざ](http://www.wazukakoucha.jp/item/004/) ~~Green tea~~ | 「指揮官、今日もよろしくお願いします。一〇〇式は頑張りますから。(茶を差し出す)」 |
 
 ## RF
@@ -35,5 +35,9 @@ Maybe N th decoy and I'm not specialist of tea.  ~~However, the tactical special
 ## AR
 
 ## MG
+
+| Tactical Doll | Tea | Remarks |
+|---------------|-----|---------|
+| LWMMG | Chocolate | 激安ティーバッグタイプのものを1つにつき10回以上淹れている。「まだ味が残ってるから、捨てないで。」 |
 
 ## SG
