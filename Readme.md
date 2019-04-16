@@ -34,10 +34,14 @@ Maybe N th decoy and I'm not specialist of tea.  ~~However, the tactical special
 
 ## AR
 
+| Tactical Doll | Tea | Remarks |
+|---------------|-----|---------|
+| SAR-21 | Teh tarik | 実はパフォーマンス芸もできる。  でも頼み込まないと恥ずかしがってしてくれない。 |
+
 ## MG
 
 | Tactical Doll | Tea | Remarks |
 |---------------|-----|---------|
-| LWMMG | Chocolate | 激安ティーバッグタイプのものを1つにつき10回以上淹れている。「まだ味が残ってるから、捨てないで。」 |
+| LWMMG | Chocolate | 激安ティーバッグタイプのものを1つにつき10回以上淹れている。  「まだ味が残ってるから、捨てないで。」 |
 
 ## SG
